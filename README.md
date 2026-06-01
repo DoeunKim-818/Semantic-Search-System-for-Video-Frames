@@ -14,3 +14,5 @@ pip install -r requirements.txt
 구글 드라이브 전체 파일을 다운로드받고, app.py 및 utils.py와 같은 디렉터리에 붙여넣습니다.
 
 ## 3. 최종 파일 구조
+
+## 4. venv 가상환경에서 실행
