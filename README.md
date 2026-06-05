@@ -15,4 +15,4 @@ https://drive.google.com/drive/folders/10MxrgZf02qI4Z1Td3XvOhDXJWOREVJKM?usp=sha
 ## 3. 최종 파일 구조
 
 
-## 4. venv 가상환경에서 실행
+## 4. venv 가상환경에서 app.py 실행
