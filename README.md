@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## 2. 구글 드라이브에서 모든 파일 다운로드
 https://drive.google.com/drive/folders/10MxrgZf02qI4Z1Td3XvOhDXJWOREVJKM?usp=sharing
- 구글 드라이브에서 전체 파일을 다운로드받고, app.py 및 utils.py와 같은 디렉터리에 붙여넣습니다.
+ 구글 드라이브에서 전체 파일을 다운로드받고, app.py 및 utils.py와 같은 디렉터리 경로에 붙여넣습니다.
 
 ## 3. 최종 파일 구조
 
