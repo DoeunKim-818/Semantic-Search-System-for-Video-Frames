@@ -1,4 +1,4 @@
-# CLIP ONNX Video Scene Searcher
+# CLIP ONNX Video Scene Searcher 프로젝트
 
 경량화된 ONNX 가중치와 클라우드에 인덱싱된 이미지 주소를 활용하여, 실시간으로 영상 내 장면을 검색하는 시스템입니다.
 
