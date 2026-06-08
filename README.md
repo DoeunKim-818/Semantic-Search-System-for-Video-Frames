@@ -16,3 +16,12 @@ https://drive.google.com/drive/folders/10MxrgZf02qI4Z1Td3XvOhDXJWOREVJKM?usp=sha
 <img width="464" height="268" alt="파일 구조" src="https://github.com/user-attachments/assets/6cda10ca-ec52-41f5-92bd-bb3122a2e691" />
 
 ## 4. venv 가상환경에서 app.py 실행
+
+## 5. 실행화면
+1) 처음 실행시켰을 때의 화면
+<img width="1919" height="906" alt="실행화면 1" src="https://github.com/user-attachments/assets/93fa0c96-b319-470a-9582-50f7517f67f1" />
+2) 텍스트 쿼리를 주고 모델 추론을 실행시켰을 때의 화면
+<img width="1919" height="903" alt="실행화면 2" src="https://github.com/user-attachments/assets/f35d02c8-6600-41c2-a356-e83593cfe0d8" />
+3) 결과
+<img width="1919" height="905" alt="실행화면 3" src="https://github.com/user-attachments/assets/4ef23b23-8951-4f99-a8b0-2318c4153700" />
+<img width="1919" height="908" alt="실행화면 4" src="https://github.com/user-attachments/assets/11dd171c-2681-4fc4-87cd-ad68e69bffd2" />
