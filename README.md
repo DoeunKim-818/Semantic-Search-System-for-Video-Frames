@@ -2,6 +2,9 @@
 
 경량화된 ONNX 가중치와 클라우드에 인덱싱된 이미지 주소를 활용하여, 실시간으로 영상 내 장면을 검색하는 시스템입니다.
 
+데이터 파이프라인
+
+---
 
 ## 1. 로컬 환경 패키지 설치
 1) Python 3.12.3에서 구동됩니다.
@@ -26,3 +29,11 @@ https://drive.google.com/drive/folders/10MxrgZf02qI4Z1Td3XvOhDXJWOREVJKM?usp=sha
 3) 결과
 <img width="1919" height="905" alt="실행화면 3" src="https://github.com/user-attachments/assets/4ef23b23-8951-4f99-a8b0-2318c4153700" />
 <img width="1919" height="908" alt="실행화면 4" src="https://github.com/user-attachments/assets/11dd171c-2681-4fc4-87cd-ad68e69bffd2" />
+
+---
+# 팀원별 역할 분담
+큰 틀로 봤을 때 모델 담당은 최수아이고, 시스템 담당은 김도은입니다. 다만 물리적으로 아예 역할 분담을 나눈 것이 아닌 어려운 점이 있다면 적극 소통하고 존중하여 화학적으로도 역할을 분담했습니다. 해당 역할 분담은 단순히 기여도가 더 높은 쪽을 작성하였고, 모든 분야에서 서로 협력하였습니다.
+-20230964 김도은: 기획, 이미지 데이터 수집, RoLA 파인튜닝 1차, UI 설계, Web app 통합 및 시스템 안정화
+-20240904 최수아: 기획, 동영상 데이터 수집, RoLA 파인튜닝 2-3차 및 파인튜닝 총괄, 실험 설계 및 성능평가
+
+
