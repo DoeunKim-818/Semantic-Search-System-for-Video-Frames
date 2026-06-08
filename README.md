@@ -12,7 +12,7 @@ pip install -r requirements.txt
 https://drive.google.com/drive/folders/10MxrgZf02qI4Z1Td3XvOhDXJWOREVJKM?usp=sharing
 해당 구글 드라이브에서 전체 파일을 다운로드받고, app.py 및 utils.py와 같은 디렉터리 경로에 붙여넣습니다.
 
-## 3. 최종 파일 구조
-
+## 3. 최종 파일 구조(참고용)
+<img width="464" height="268" alt="파일 구조" src="https://github.com/user-attachments/assets/6cda10ca-ec52-41f5-92bd-bb3122a2e691" />
 
 ## 4. venv 가상환경에서 app.py 실행
