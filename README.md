@@ -2,12 +2,6 @@
 
 경량화된 ONNX 가중치와 클라우드에 인덱싱된 이미지 주소를 활용하여, 실시간으로 영상 내 장면을 검색하는 시스템입니다. 자연어 검색어와 영상 프레임 간의 시맨틱 매칭 정확도를 높이기 위해, CLIP 비전 인코더를 대상으로 LoRA기법을 도입하여 3차까지 파인튜닝을 수행했습니다. 13만 장의 대용량 이미지는 구글 클라우드에 격리하고 주소만 JSON 인덱스로 관리하여, 로컬 저장 공간 부담을 줄였습니다.
 
-### 기술 스택 (Tech Stacks)
-- AI Core: Python, OpenAI CLIP, PyTorch, LoRA Fine-Tuning
-- Optimization & Inference: ONNX Runtime, Hugging Face Transformers (CLIP Tokenizer)
-- Data Pipeline: Google Drive API v3 (Recursive Queue Search), JSON Indexing DataBase
-- Frontend & Server: Streamlit, NumPy, Pillow
-
 ---
 # 데이터 파이프라인
 
