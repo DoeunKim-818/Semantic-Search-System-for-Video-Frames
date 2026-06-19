@@ -21,6 +21,7 @@
 - 클라우드 자원 격리: 13만 장의 대용량 이미지를 로컬 PC나 GitHub에 담지 않고, 구글 드라이브 클라우드 스토리지에 배치했습니다.
 - 주소 치환: 자체 개발한 구글 드라이브 API 연동 스크립트를 통해 트리 구조의 하위 폴더들을 탐색하고, 이미지 파일의 고유 ID를 확보하여 구글 드라이브 주소(https://drive.google.com/...)로 전환했습니다.
 - 데이터 라벨 구성:
+  
   <img width="483" height="488" alt="image" src="https://github.com/user-attachments/assets/b9adccb0-b0f5-480e-afeb-111f2b8f817d" />
 
 
